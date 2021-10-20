@@ -187,12 +187,10 @@ body {
   width: 200px;
   height: 200px;
   display: inline-block;
-  background-image: url(img/ribbon.png);
-  background-repeat: no-repeat;
-  text-indent: -9999px;
   position: absolute;
   top: -25px;
   right: -29px;
+  
 }
 .header {
   padding: 20px;
