@@ -143,6 +143,18 @@ body {
   border-bottom: salmon 4px solid;
   text-align: center;
 }
+.ribbon img {
+  overflow: hidden;
+  position: absolute;
+  top: -25px;
+  right: -29px;
+  overflow: hidden;
+  transition: 300ms;
+}
+.ig:hover img{
+  transform: scale(1.05);
+  
+}
 .profil, 
 .project, 
 .RP,
@@ -183,15 +195,7 @@ body {
   border: #333 3px solid;
 
 }
-.ig {
-  width: 200px;
-  height: 200px;
-  display: inline-block;
-  position: absolute;
-  top: -25px;
-  right: -29px;
-  
-}
+
 .header {
   padding: 20px;
   padding-bottom: 10px;
