@@ -154,38 +154,7 @@ body {
   transform: scale(1.05);
   
 }
-/* .profil, 
-.project, 
-.RP,
-.karir,
-.art,
-.help {
-  display: inline-block;
-  margin: 7px 50px auto 50px;
-  text-decoration: none;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-.profil a, 
-.project a, 
-.RP a,
-.karir a,
-.art a,
-.help a{
-  text-decoration: none;
-  color: #333;
-  background-color: lightskyblue;
-  padding: 12px 12px 10px 12px;
-  box-sizing: border-box;
-}
-.profil a:hover, 
-.project a:hover, 
-.RP a:hover,
-.karir a:hover,
-.art a:hover,
-.help a:hover {
-  color: white;
-  background-color: salmon;
-} */
+
 table {
   margin: 0px auto 0px auto;
   
